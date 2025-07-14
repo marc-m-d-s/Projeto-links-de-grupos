@@ -1,4 +1,4 @@
-# Bem-vindo(a) ao repositório de Links de Grupos!
+# Bem-vindo(a) ao repositório de Links de Grupos - em constante atualização
 
 # 📢 Encontre os melhores grupos para divulgar seus produtos, serviços e negócios locais!
 
