@@ -26,7 +26,10 @@
     <li>🔗 <a href="https://www.facebook.com/groups/patosdeminasminasgerais/" target="_blank">Patos de Minas-MG (Divulgação de produtos e serviços)</a></li>
     <li>🔗 <a href="https://www.facebook.com/groups/januariaminasgerais/" target="_blank">Januária-MG (Divulgação de produtos e serviços)</a></li>
     <li>🔗 <a href="https://www.facebook.com/groups/montesclarosnortedeminas/" target="_blank">Montes Claros-MG (Divulgação de produtos e serviços)</a></li>
+    <li>🔗 <a href="https://www.facebook.com/groups/novaserranamg/" target="_blank">Nova Serrana-MG (Divulgação de produtos e serviços)</a></li>
+    <li>🔗 <a href="https://www.facebook.com/groups/uberlandiamgbrasil/" target="_blank">Uberlândia-MG (Divulgação de produtos e serviços)</a></li>
   </ul>
+  <li>🔗 <a href="https://www.facebook.com/groups/varginhamgbrasil/" target="_blank">Varginha-MG (Divulgação de produtos e serviços)</a></li>
 </section>
 
 <section>
@@ -55,5 +58,33 @@
   <h2>Santa Catarina (SC)</h2>
   <ul>
     <li>🔗 <a href="https://www.facebook.com/groups/florianopolissantacatarina/" target="_blank">Florianópolis-SC (Divulgação de produtos e serviços)</a></li>
+  </ul>
+</section>
+
+<section>
+  <h2>Mato Grosso do Sul (MS)</h2>
+  <ul>
+    <li>🔗 <a href="https://www.facebook.com/groups/campograndematogrossosul/" target="_blank">Campo Grande-MS (Divulgação de produtos e serviços)</a></li>
+  </ul>
+</section>
+
+<section>
+  <h2>Mato Grosso (MT)</h2>
+  <ul>
+    <li>🔗 <a href="https://www.facebook.com/groups/cuiababrasil/" target="_blank">Cuiabá-MT (Divulgação de produtos e serviços)</a></li>
+  </ul>
+</section>
+
+<section>
+  <h2>Paraíba (PB)</h2>
+  <ul>
+    <li>🔗 <a href="https://www.facebook.com/groups/cajazeirasparaiba/" target="_blank">Cajazeiras-PB (Divulgação de produtos e serviços)</a></li>
+  </ul>
+</section>
+
+<section>
+  <h2>Rio De Janeiro (RJ)</h2>
+  <ul>
+    <li>🔗 <a href="https://www.facebook.com/groups/riodejaneirobrasil/" target="_blank">Rio de Janeiro-RJ (Divulgação de produtos e serviços)</a></li>
   </ul>
 </section>
