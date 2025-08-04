@@ -26,6 +26,9 @@
     <li>🔗 <a href="https://t.me/+wyGK1JJUiVFmZmZh" target="_blank">Patos de Minas-MG</a></li>
     <li>🔗 <a href="https://t.me/+P5aCePv2h9tlMWNh" target="_blank">Januária-MG</a></li>
     <li>🔗 <a href="https://t.me/+DQ_8u_jWDsQ5ZDFh" target="_blank">Montes Claros-MG</a></li>
+    <li>🔗 <a href="https://t.me/novaserranamgbrise" target="_blank">Nova Serrana-MG</a></li>
+    <li>🔗 <a href="https://t.me/t.me/uberlandiamgbrise" target="_blank">Uberlândia-MG</a></li>
+    <li>🔗 <a href="https://t.me/t.me/varginhamgbrise" target="_blank">Varginha-MG</a></li>
   </ul>
 </section>
 
@@ -47,20 +50,47 @@
 <section>
   <h2>Paraná (PR)</h2>
   <ul>
-    <li>🔗 <a href="https://t.me/+13urfrvFPRRkMzcx" target="_blank">Londrina-PR</a></li>
+    <li>🔗 <a href="https://t.me/londrinaprbrise" target="_blank">Londrina-PR</a></li>
   </ul>
 </section>
 
 <section>
   <h2>Santa Catarina (SC)</h2>
   <ul>
-    <li>🔗 <a href="https://t.me/+oQpw5cUNQXRjYjAx" target="_blank">Florianópolis-SC</a></li>
+    <li>🔗 <a href="https://t.me/florianopolisscbrise" target="_blank">Florianópolis-SC</a></li>
   </ul>
 </section>
 
 <section>
   <h2>Mato Grosso do Sul (MS)</h2>
   <ul>
-    <li>🔗 <a href="https://t.me/+81d5oFKDF8FhZjM5" target="_blank">Campo Grande-MS</a></li>
+    <li>🔗 <a href="https://t.me/campograndemsbrise" target="_blank">Campo Grande-MS</a></li>
+  </ul>
+</section>
+
+<section>
+  <h2>Mato Grosso (MT)</h2>
+  <ul>
+    <li>🔗 <a href="https://t.me/cuiabamtbrise" target="_blank">Cuiaba-MT</a></li>
+  </ul>
+</section>
+
+<section>
+  <h2>Rio De Janeiro (RJ)</h2>
+  <ul>
+    <li>🔗 <a href="https://t.me/riodejaneirorjbrise" target="_blank">Rio de Janeiro-RJ</a></li>
+  </ul>
+</section>
+
+<section>
+  <h2>Paraíba (PB)</h2>
+  <ul>
+    <li>🔗 <a href="https://t.me/cajazeiraspbbrise" target="_blank">Cajazeiras-PB</a></li>
+  </ul>
+
+  <section>
+  <h2>São Paulo (SP)</h2>
+  <ul>
+    <li>🔗 <a href="https://t.me/cajazeiraspbbrise" target="_blank">São Paulo-SP</a></li>
   </ul>
 </section>
