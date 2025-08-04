@@ -76,15 +76,15 @@
 </section>
 
 <section>
-  <h2>Rio De Janeiro (RJ)</h2>
+  <h2>Paraíba (PB)</h2>
   <ul>
-    <li>🔗 <a href="https://t.me/riodejaneirorjbrise" target="_blank">Rio de Janeiro-RJ</a></li>
+    <li>🔗 <a href="https://t.me/cajazeiraspbbrise" target="_blank">Cajazeiras-PB</a></li>
   </ul>
 </section>
 
 <section>
-  <h2>Paraíba (PB)</h2>
+  <h2>Rio De Janeiro (RJ)</h2>
   <ul>
-    <li>🔗 <a href="https://t.me/cajazeiraspbbrise" target="_blank">Cajazeiras-PB</a></li>
+    <li>🔗 <a href="https://t.me/riodejaneirorjbrise" target="_blank">Rio de Janeiro-RJ</a></li>
   </ul>
 </section>
