@@ -27,6 +27,7 @@
     <li>🔗 <a href="https://www.facebook.com/groups/januariaminasgerais/" target="_blank">Januária-MG (Divulgação de produtos e serviços)</a></li>
     <li>🔗 <a href="https://www.facebook.com/groups/montesclarosnortedeminas/" target="_blank">Montes Claros-MG (Divulgação de produtos e serviços)</a></li>
     <li>🔗 <a href="https://www.facebook.com/groups/novaserranamg/" target="_blank">Nova Serrana-MG (Divulgação de produtos e serviços)</a></li>
+    <li>🔗 <a href="https://www.facebook.com/groups/taiobeirasmgbrasil" target="_blank">Taiobeiras-MG (Divulgação de produtos e serviços)</a></li>
     <li>🔗 <a href="https://www.facebook.com/groups/uberlandiamgbrasil/" target="_blank">Uberlândia-MG (Divulgação de produtos e serviços)</a></li>
     <li>🔗 <a href="https://www.facebook.com/groups/varginhamgbrasil/" target="_blank">Varginha-MG (Divulgação de produtos e serviços)</a></li>
   </ul>
