@@ -27,6 +27,7 @@
     <li>🔗 <a href="https://t.me/+P5aCePv2h9tlMWNh" target="_blank">Januária-MG</a></li>
     <li>🔗 <a href="https://t.me/montesclarosmgbrise" target="_blank">Montes Claros-MG</a></li>
     <li>🔗 <a href="https://t.me/+Gugu6AsPKJY3ZWJh" target="_blank">Nova Serrana-MG</a></li>
+    <li>🔗 <a href="https://t.me/+ZoK_-4v3S4MzOTY5" target="_blank">Taiobeiras-MG</a></li>
     <li>🔗 <a href="https://t.me/+ixlDpGWkKoY5MDRh" target="_blank">Uberlândia-MG</a></li>
     <li>🔗 <a href="https://t.me/+8juipN4eEVg2ZGFh" target="_blank">Varginha-MG</a></li>
   </ul>
