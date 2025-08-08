@@ -12,6 +12,13 @@
 </section>
 
 <section>
+  <h2>Ceará (CE)</h2>
+  <ul>
+    <li>🔗 <a href="https://t.me/+nNY08C1JieMxM2Zh" target="_blank">Fortaleza-CE</a></li>
+  </ul>
+</section>
+
+<section>
   <h2>Minas Gerais (MG)</h2>
   <ul>
     <li>🔗 <a href="https://t.me/+ZoK_-4v3S4MzOTY5" target="_blank">Bocaiuva-MG</a></li>
