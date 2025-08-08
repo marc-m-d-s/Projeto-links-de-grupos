@@ -12,6 +12,13 @@
 </section>
 
 <section>
+  <h2>Ceará (CE)</h2>
+  <ul>
+    <li>🔗 <a href="https://www.facebook.com/groups/fortalezacebrasil/" target="_blank">Fortaleza-CE (Divulgação de produtos e serviços)</a></li>
+  </ul>
+</section>
+
+<section>
   <h2>Minas Gerais (MG)</h2>
   <ul>
     <li>🔗 <a href="https://www.facebook.com/groups/bocaiuvamgbrasil/" target="_blank">Bocaiuva-MG (Divulgação de produtos e serviços)</a></li>
