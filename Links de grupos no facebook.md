@@ -70,6 +70,13 @@
 </section>
 
 <section>
+  <h2>Tocantins (TO)</h2>
+  <ul>
+    <li>🔗 <a href="https://www.facebook.com/groups/palmastobrasil/" target="_blank">Palmas-TO (Divulgação de produtos e serviços)</a></li>
+  </ul>
+</section>
+
+<section>
   <h2>Mato Grosso do Sul (MS)</h2>
   <ul>
     <li>🔗 <a href="https://www.facebook.com/groups/campograndematogrossosul/" target="_blank">Campo Grande-MS (Divulgação de produtos e serviços)</a></li>
