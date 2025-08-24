@@ -1,6 +1,6 @@
 # Bem-vindo(a) ao repositório de Links de Grupos - em constante atualização
 
-# 📢 Encontre os melhores grupos para divulgar seus produtos, serviços e negócios locais!
+# 📢 Encontre grupos para divulgar seus produtos, serviços e negócios locais!
 
 Esta lista está organizada por estado, ajudando empreendedores, autônomos e pequenas empresas a alcançarem clientes em todo o Brasil.
 
