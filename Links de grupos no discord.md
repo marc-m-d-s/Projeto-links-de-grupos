@@ -1,7 +1,7 @@
 <header>
     <h1>Links de grupos no Discord por estado e cidade.</h1>
 </header>
-<p>Encontre os melhores grupos no Discord para divulgar seus produtos e serviços em todo o Brasil. Listagem completa por estado. Potencialize seu negócio agora!</p>
+<p>Encontre grupos no Discord para divulgar seus produtos e serviços em todo o Brasil. Listagem completa por estado.</p>
 
 <section>
   <h2>São Paulo (SP)</h2>
