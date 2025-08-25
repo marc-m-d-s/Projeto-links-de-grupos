@@ -88,7 +88,7 @@
 <section>
   <h2>Rondônia (RO)</h2>
   <ul>
-    <li>🔗 <a href="https://www.facebook.com/groups/brasiliadfbrasil/" target="_blank">Porto Velho-RO (Divulgação de produtos e serviços)</a></li>
+    <li>🔗 <a href="https://www.facebook.com/groups/portovelhorobrasil" target="_blank">Porto Velho-RO (Divulgação de produtos e serviços)</a></li>
   </ul>
 </section>
 
