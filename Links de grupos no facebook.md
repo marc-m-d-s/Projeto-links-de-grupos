@@ -96,6 +96,7 @@
   <h2>Santa Catarina (SC)</h2>
   <ul>
     <li>🔗 <a href="https://www.facebook.com/groups/florianopolissantacatarina/" target="_blank">Florianópolis-SC (Divulgação de produtos e serviços)</a></li>
+    <li>🔗 <a href="https://www.facebook.com/groups/camboriuscbrasil" target="_blank">Comboriú-SC (Divulgação de produtos e serviços)</a></li>
   </ul>
 </section>
 
