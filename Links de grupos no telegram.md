@@ -96,6 +96,7 @@
   <h2>Santa Catarina (SC)</h2>
   <ul>
     <li>🔗 <a href="https://t.me/+oQpw5cUNQXRjYjAx" target="_blank">Florianópolis-SC</a></li>
+    <li>🔗 <a href="https://t.me/+8v1G99kltsdmMjhh" target="_blank">Comboriú-SC</a></li>
   </ul>
 </section>
 
