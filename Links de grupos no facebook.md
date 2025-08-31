@@ -75,6 +75,7 @@
   <h2>Paraná (PR)</h2>
   <ul>
     <li>🔗 <a href="https://www.facebook.com/groups/londrinaparanabrasil/" target="_blank">Londrina-PR (Divulgação de produtos e serviços)</a></li>
+    <li>🔗 <a href="https://www.facebook.com/groups/curitibaparanabrasil/" target="_blank">Curitiba-PR (Divulgação de produtos e serviços)</a></li>
   </ul>
 </section>
 
