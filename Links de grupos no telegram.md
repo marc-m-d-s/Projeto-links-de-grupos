@@ -75,6 +75,7 @@
   <h2>Paraná (PR)</h2>
   <ul>
     <li>🔗 <a href="https://t.me/+13urfrvFPRRkMzcx" target="_blank">Londrina-PR</a></li>
+    <li>🔗 <a href="https://t.me/+drPjt03fuKlkYzRh" target="_blank">Curitiba-PR</a></li>
   </ul>
 </section>
 
