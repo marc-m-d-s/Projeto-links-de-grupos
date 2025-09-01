@@ -59,7 +59,8 @@
     <li>🔗 <a href="https://t.me/+_wVpHbflRhgwN2E5" target="_blank">Pirapora-MG</a></li>
     <li>🔗 <a href="https://t.me/+3Vr8sLig0bNkOWFh" target="_blank">São Francisco-MG</a></li>
     <li>🔗 <a href="https://t.me/+ixlDpGWkKoY5MDRh" target="_blank">Uberlândia-MG</a></li>
-    <li>🔗 <a href="https://t.me/+8juipN4eEVg2ZGFh" target="_blank">Varginha-MG</a></li>
+    <li>🔗 <a href="https://t.me/+ixlDpGWkKoY5MDRh" target="_blank">Uberlândia-MG</a></li>
+    <li>🔗 <a href="https://t.me/+cBaOyem06qE0MDlh" target="_blank">Unaí-MG</a></li>
     <li>🔗 <a href="https://t.me/+o0AyXR0F0ag3MDZh" target="_blank">Varzelândia-MG</a></li>
   </ul>
 </section>
@@ -113,5 +114,24 @@
   <h2>Tocantins (TO)</h2>
   <ul>
     <li>🔗 <a href="https://t.me/+zUe3Nco-xhBjODFh" target="_blank">Palmas-TO</a></li>
+  </ul>
+</section>
+
+<section>
+  <h2>Rio Grande do Sul (RS)</h2>
+  <ul>
+    <li>🔗 <a href="https://t.me/+K6-xiJJaO7E1YTNh" target="_blank">Porto Alegre-RS</a></li>
+  </ul>
+</section>
+
+<header>
+    <h1>Links de grupos no Facebook por estado e cidade no exteriror.</h1>
+</header>
+<p>Encontre grupos no Telegram para divulgar seus produtos e serviços. Listagem por estado, lista em constante atualização.</p>
+
+<section>
+  <h2>Florida (FL)</h2>
+  <ul>
+    <li>🔗 <a href="https://t.me/+Q5YDLetl7NE3OGZh" target="_blank">Miami-FL</a></li>
   </ul>
 </section>
