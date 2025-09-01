@@ -1,7 +1,7 @@
 <header>
     <h1>Links de grupos no Telegram por estado e cidade.</h1>
 </header>
-<p>Encontre grupos no Telegram para divulgar seus produtos e serviços. Listagem por estado. Lista em constante atualização.</p>
+<p>Encontre grupos no Telegram para divulgar seus produtos e serviços. Listagem por estado, lista em constante atualização.</p>
 
 <section>
   <h2>Bahia (BA)</h2>
