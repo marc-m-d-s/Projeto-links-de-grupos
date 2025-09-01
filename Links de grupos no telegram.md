@@ -125,7 +125,7 @@
 </section>
 
 <header>
-    <h1>Links de grupos no Facebook por estado e cidade no exteriror.</h1>
+    <h1>Links de grupos no Telegram por estado e cidade no exteriror.</h1>
 </header>
 <p>Encontre grupos no Telegram para divulgar seus produtos e serviços. Listagem por estado, lista em constante atualização.</p>
 
