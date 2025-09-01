@@ -1,7 +1,7 @@
 <header>
     <h1>Links de grupos no Facebook por estado e cidade.</h1>
 </header>
-<p>Encontre grupos no Facebook para divulgar seus produtos e serviços. Listagem por estado. Lista em constante atualização.</p>
+<p>Encontre grupos no Facebook para divulgar seus produtos e serviços. Listagem por estado, lista em constante atualização.</p>
 
 <section>
   <h2>Bahia (BA)</h2>
@@ -59,6 +59,7 @@
     <li>🔗 <a href="https://www.facebook.com/groups/piraporaminasgerais/" target="_blank">Pirapora-MG (Divulgação de produtos e serviços)</a></li>
     <li>🔗 <a href="https://www.facebook.com/groups/saofranciscominasgerias/" target="_blank">São Francisco-MG (Divulgação de produtos e serviços)</a></li>
     <li>🔗 <a href="https://www.facebook.com/groups/uberlandiamgbrasil/" target="_blank">Uberlândia-MG (Divulgação de produtos e serviços)</a></li>
+     <li>🔗 <a href="https://www.facebook.com/groups/unaiminasgeraisbrasil/" target="_blank">Unaí-MG (Divulgação de produtos e serviços)</a></li>
     <li>🔗 <a href="https://www.facebook.com/groups/varginhamgbrasil/" target="_blank">Varginha-MG (Divulgação de produtos e serviços)</a></li>
     <li>🔗 <a href="https://www.facebook.com/groups/varzelandiamgbrasil/" target="_blank">Varzelândia-MG (Divulgação de produtos e serviços)</a></li>
   </ul>
@@ -115,3 +116,22 @@
     <li>🔗 <a href="https://www.facebook.com/groups/palmastobrasil/" target="_blank">Palmas-TO (Divulgação de produtos e serviços)</a></li>
   </ul>
 </section>
+
+<section>
+  <h2>Rio Grande do Sul (RS)</h2>
+  <ul>
+    <li>🔗 <a href="https://www.facebook.com/groups/portoalegreriograndedosulbrasil/" target="_blank">Porto Alegre-RS (Divulgação de produtos e serviços)</a></li>
+  </ul>
+</section>
+
+<header>
+    <h1>Links de grupos no Facebook por estado e cidade no exteriror.</h1>
+</header>
+<p>Encontre grupos no Facebook para divulgar seus produtos e serviços. Listagem por estado, lista em constante atualização.</p>
+
+<section>
+  <h2>Florida (FL)</h2>
+  <ul>
+    <li>🔗 <a href="https://www.facebook.com/groups/miamifloridaeua/" target="_blank">Miami-FL (Divulgação de produtos e serviços)</a></li>
+  </ul>
+</section
