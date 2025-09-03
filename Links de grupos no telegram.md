@@ -42,6 +42,7 @@
 <section>
   <h2>Minas Gerais (MG)</h2>
   <ul>
+    <li>🔗 <a href="https://t.me/+7gIMH9cpfPNiYzIx" target="_blank">Araguari-MG</a></li>
     <li>🔗 <a href="https://t.me/belohorizontemgbrise" target="_blank">Belo Horizonte-MG</a></li>
     <li>🔗 <a href="https://t.me/+ZoK_-4v3S4MzOTY5" target="_blank">Bocaiuva-MG</a></li>
     <li>🔗 <a href="https://t.me/+8X-ka5VM7oQ3ZWIx" target="_blank">Brasília de Minas-MG</a></li>
