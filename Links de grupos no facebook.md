@@ -42,6 +42,7 @@
 <section>
   <h2>Minas Gerais (MG)</h2>
   <ul>
+    <li>🔗 <a href="https://www.facebook.com/groups/araguariminasgeraisbrasil" target="_blank">Araguari-MG (Divulgação de produtos e serviços)</a></li>
     <li>🔗 <a href="https://www.facebook.com/groups/belohorizonteminasgerais/" target="_blank">Belo Horizonte-MG (Divulgação de produtos e serviços)</a></li>
     <li>🔗 <a href="https://www.facebook.com/groups/bocaiuvamgbrasil/" target="_blank">Bocaiuva-MG (Divulgação de produtos e serviços)</a></li>
     <li>🔗 <a href="https://www.facebook.com/groups/brasiliademinasmg/" target="_blank">Brasília de Minas-MG (Divulgação de produtos e serviços)</a></li>
