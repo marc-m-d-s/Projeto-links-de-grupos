@@ -107,6 +107,7 @@
   <h2>São Paulo (SP)</h2>
   <ul>
     <li>🔗 <a href="https://t.me/+4qrzQ4ssxDwwMzMx" target="_blank">Altair-SP</a></li>
+    <li>🔗 <a href="https://t.me/+XsaVgeB8AlVhMWUx" target="_blank">Guarulhos-SP</a></li>
     <li>🔗 <a href="https://t.me/saopaulospbrise" target="_blank">São Paulo-SP</a></li>
   </ul>
 </section>
