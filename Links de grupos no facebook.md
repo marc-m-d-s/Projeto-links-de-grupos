@@ -107,7 +107,9 @@
   <h2>São Paulo (SP)</h2>
   <ul>
     <li>🔗 <a href="https://www.facebook.com/groups/altairsp/" target="_blank">Altair-SP (Divulgação de produtos e serviços)</a></li>
-    <li>🔗 <a href="https://www.facebook.com/groups/saopaulobrazil/" target="_blank">São Paulo - Capital (Divulgação de produtos e serviços)</a></li>
+    <li>🔗 <a href="https://www.facebook.com/groups/guarulhosaopaulobrasil" target="_blank">Guarulhos-SP (Divulgação de produtos e serviços)</a></li>
+    <li>🔗 <a href="https://www.facebook.com/groups/saopaulobrazil/" target="_blank">São Paulo-SP (Divulgação de produtos e serviços)</a></li>
+    
   </ul>
 </section>
 
