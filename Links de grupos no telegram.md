@@ -80,6 +80,7 @@
     <li>🔗 <a href="https://t.me/+sXVTH-SHCqI2MTRh" target="_blank">Cambé-PR</a></li>
     <li>🔗 <a href="https://t.me/+drPjt03fuKlkYzRh" target="_blank">Curitiba-PR</a></li>
     <li>🔗 <a href="https://t.me/+13urfrvFPRRkMzcx" target="_blank">Londrina-PR</a></li>
+    <li>🔗 <a href="https://t.me/+vuZV4wOF2Pc1MTBh" target="_blank">Pontal do Paraná-PR</a></li>
   </ul>
 </section>
 
