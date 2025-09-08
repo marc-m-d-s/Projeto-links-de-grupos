@@ -60,6 +60,7 @@
     <li>🔗 <a href="https://www.facebook.com/groups/patrociniominasgeraisbrasil/" target="_blank">Patrocínio-MG</a></li>
     <li>🔗 <a href="https://www.facebook.com/groups/piraporaminasgerais/" target="_blank">Pirapora-MG</a></li>
     <li>🔗 <a href="https://www.facebook.com/groups/saofranciscominasgerais/" target="_blank">São Francisco-MG</a></li>
+    <li>🔗 <a href="https://www.facebook.com/groups/taiobeirasminasgeraisbrasil" target="_blank">Taiobeiras-MG</a></li>
     <li>🔗 <a href="https://www.facebook.com/groups/uberlandiamgbrasil/" target="_blank">Uberlândia-MG</a></li>
     <li>🔗 <a href="https://www.facebook.com/groups/unaiminasgeraisbrasil/" target="_blank">Unaí-MG</a></li>
     <li>🔗 <a href="https://www.facebook.com/groups/varginhamgbrasil/" target="_blank">Varginha-MG</a></li>
