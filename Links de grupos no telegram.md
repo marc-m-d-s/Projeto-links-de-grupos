@@ -57,6 +57,7 @@
     <li>🔗 <a href="https://t.me/+Gugu6AsPKJY3ZWJh" target="_blank">Nova Serrana-MG</a></li>
     <li>🔗 <a href="https://t.me/+MBYpLf1H24c5YTNh" target="_blank">Paracatu-MG</a></li>
     <li>🔗 <a href="https://t.me/+wyGK1JJUiVFmZmZh" target="_blank">Patos de Minas-MG</a></li>
+    <li>🔗 <a href="https://t.me/+hBpYrNEGUs1lMTAx" target="_blank">Patrocínio-MG</a></li>
     <li>🔗 <a href="https://t.me/+_wVpHbflRhgwN2E5" target="_blank">Pirapora-MG</a></li>
     <li>🔗 <a href="https://t.me/+3Vr8sLig0bNkOWFh" target="_blank">São Francisco-MG</a></li>
     <li>🔗 <a href="https://t.me/+ixlDpGWkKoY5MDRh" target="_blank">Uberlândia-MG</a></li>
@@ -76,8 +77,9 @@
 <section>
   <h2>Paraná (PR)</h2>
   <ul>
-    <li>🔗 <a href="https://t.me/+13urfrvFPRRkMzcx" target="_blank">Londrina-PR</a></li>
+    <li>🔗 <a href="https://t.me/+sXVTH-SHCqI2MTRh" target="_blank">Cambé-PR</a></li>
     <li>🔗 <a href="https://t.me/+drPjt03fuKlkYzRh" target="_blank">Curitiba-PR</a></li>
+    <li>🔗 <a href="https://t.me/+13urfrvFPRRkMzcx" target="_blank">Londrina-PR</a></li>
   </ul>
 </section>
 
