@@ -80,7 +80,7 @@
   <li>🔗 <a href="https://www.facebook.com/groups/cambeparanabrasil" target="_blank">Cambé-PR</a></li>
   <li>🔗 <a href="https://www.facebook.com/groups/curitibaparanabrasil/" target="_blank">Curitiba-PR</a></li>
   <li>🔗 <a href="https://www.facebook.com/groups/londrinaparanabrasil/" target="_blank">Londrina-PR</a></li>
-    
+  <li>🔗 <a href="https://www.facebook.com/groups/pontalparanabrasil" target="_blank">Pontal do Paraná-PR</a></li>
   </ul>
 </section>
 
