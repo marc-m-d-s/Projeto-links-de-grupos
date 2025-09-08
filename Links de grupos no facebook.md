@@ -57,10 +57,11 @@
     <li>🔗 <a href="https://www.facebook.com/groups/novaserranamg/" target="_blank">Nova Serrana-MG (Divulgação de produtos e serviços)</a></li>
     <li>🔗 <a href="https://www.facebook.com/groups/paracatubrasil/" target="_blank">Paracatu-MG (Divulgação de produtos e serviços)</a></li>
     <li>🔗 <a href="https://www.facebook.com/groups/patosdeminasminasgerais/" target="_blank">Patos de Minas-MG (Divulgação de produtos e serviços)</a></li>
+    <li>🔗 <a href="https://www.facebook.com/groups/patrociniominasgeraisbrasil/" target="_blank">Patrocínio-MG (Divulgação de produtos e serviços)</a></li>
     <li>🔗 <a href="https://www.facebook.com/groups/piraporaminasgerais/" target="_blank">Pirapora-MG (Divulgação de produtos e serviços)</a></li>
-    <li>🔗 <a href="https://www.facebook.com/groups/saofranciscominasgerias/" target="_blank">São Francisco-MG (Divulgação de produtos e serviços)</a></li>
+    <li>🔗 <a href="https://www.facebook.com/groups/saofranciscominasgerais/" target="_blank">São Francisco-MG (Divulgação de produtos e serviços)</a></li>
     <li>🔗 <a href="https://www.facebook.com/groups/uberlandiamgbrasil/" target="_blank">Uberlândia-MG (Divulgação de produtos e serviços)</a></li>
-     <li>🔗 <a href="https://www.facebook.com/groups/unaiminasgeraisbrasil/" target="_blank">Unaí-MG (Divulgação de produtos e serviços)</a></li>
+    <li>🔗 <a href="https://www.facebook.com/groups/unaiminasgeraisbrasil/" target="_blank">Unaí-MG (Divulgação de produtos e serviços)</a></li>
     <li>🔗 <a href="https://www.facebook.com/groups/varginhamgbrasil/" target="_blank">Varginha-MG (Divulgação de produtos e serviços)</a></li>
     <li>🔗 <a href="https://www.facebook.com/groups/varzelandiamgbrasil/" target="_blank">Varzelândia-MG (Divulgação de produtos e serviços)</a></li>
   </ul>
@@ -76,8 +77,10 @@
 <section>
   <h2>Paraná (PR)</h2>
   <ul>
-    <li>🔗 <a href="https://www.facebook.com/groups/londrinaparanabrasil/" target="_blank">Londrina-PR (Divulgação de produtos e serviços)</a></li>
-    <li>🔗 <a href="https://www.facebook.com/groups/curitibaparanabrasil/" target="_blank">Curitiba-PR (Divulgação de produtos e serviços)</a></li>
+  <li>🔗 <a href="https://www.facebook.com/groups/cambeparanabrasil" target="_blank">Cambé-PR (Divulgação de produtos e serviços)</a></li>
+  <li>🔗 <a href="https://www.facebook.com/groups/curitibaparanabrasil/" target="_blank">Curitiba-PR (Divulgação de produtos e serviços)</a></li>
+  <li>🔗 <a href="https://www.facebook.com/groups/londrinaparanabrasil/" target="_blank">Londrina-PR (Divulgação de produtos e serviços)</a></li>
+    
   </ul>
 </section>
 
