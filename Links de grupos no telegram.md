@@ -60,7 +60,7 @@
     <li>🔗 <a href="https://t.me/+hBpYrNEGUs1lMTAx" target="_blank">Patrocínio-MG</a></li>
     <li>🔗 <a href="https://t.me/+_wVpHbflRhgwN2E5" target="_blank">Pirapora-MG</a></li>
     <li>🔗 <a href="https://t.me/+3Vr8sLig0bNkOWFh" target="_blank">São Francisco-MG</a></li>
-    <li>🔗 <a href="https://t.me/+ixlDpGWkKoY5MDRh" target="_blank">Uberlândia-MG</a></li>
+    <li>🔗 <a href="https://t.me/+x8xj08HDeXo3Yzgx" target="_blank">Taiobeiras-MG</a></li>
     <li>🔗 <a href="https://t.me/+ixlDpGWkKoY5MDRh" target="_blank">Uberlândia-MG</a></li>
     <li>🔗 <a href="https://t.me/+cBaOyem06qE0MDlh" target="_blank">Unaí-MG</a></li>
     <li>🔗 <a href="https://t.me/+o0AyXR0F0ag3MDZh" target="_blank">Varzelândia-MG</a></li>
