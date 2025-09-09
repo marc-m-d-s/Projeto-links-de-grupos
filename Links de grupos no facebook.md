@@ -46,7 +46,8 @@
 <section>
   <h2>Minas Gerais (MG)</h2>
   <ul>
-    <li>🔗 <a href="https://www.facebook.com/groups/araguariminasgeraisbrasil" target="_blank">Araguari-MG</a></li>
+    <li>🔗 <a href="https://www.facebook.com/groups/alfenasminasgeraisbrasil/" target="_blank">Alfenas-MG</a></li>
+    <li>🔗 <a href="https://www.facebook.com/groups/araguariminasgeraisbrasil/" target="_blank">Araguari-MG</a></li>
     <li>🔗 <a href="https://www.facebook.com/groups/belohorizonteminasgerais/" target="_blank">Belo Horizonte-MG</a></li>
     <li>🔗 <a href="https://www.facebook.com/groups/bocaiuvamgbrasil/" target="_blank">Bocaiuva-MG</a></li>
     <li>🔗 <a href="https://www.facebook.com/groups/brasiliademinasmg/" target="_blank">Brasília de Minas-MG</a></li>
@@ -55,7 +56,7 @@
     <li>🔗 <a href="https://www.facebook.com/groups/contagemminasgeraisbrasil/" target="_blank">Contagem-MG</a></li>
     <li>🔗 <a href="https://www.facebook.com/groups/icaraideminasmgbrasil/" target="_blank">Icaraí de Minas-MG</a></li>
     <li>🔗 <a href="https://www.facebook.com/groups/itacarambinortedeminas/" target="_blank">Itacarambi-MG</a></li>
-    <li>🔗 <a href="https://www.facebook.com/groups/ituiutabaminasgeraisbrasil" target="_blank">Ituiutaba-MG</a></li>
+    <li>🔗 <a href="https://www.facebook.com/groups/ituiutabaminasgeraisbrasil/" target="_blank">Ituiutaba-MG</a></li>
     <li>🔗 <a href="https://www.facebook.com/groups/januariaminasgerais/" target="_blank">Januária-MG</a></li>
     <li>🔗 <a href="https://www.facebook.com/groups/japonvarmg/" target="_blank">Japonvar-MG</a></li>
     <li>🔗 <a href="https://www.facebook.com/groups/lontramgbrasil/" target="_blank">Lontra-MG</a></li>
@@ -66,7 +67,7 @@
     <li>🔗 <a href="https://www.facebook.com/groups/patrociniominasgeraisbrasil/" target="_blank">Patrocínio-MG</a></li>
     <li>🔗 <a href="https://www.facebook.com/groups/piraporaminasgerais/" target="_blank">Pirapora-MG</a></li>
     <li>🔗 <a href="https://www.facebook.com/groups/saofranciscominasgerais/" target="_blank">São Francisco-MG</a></li>
-    <li>🔗 <a href="https://www.facebook.com/groups/taiobeirasminasgeraisbrasil" target="_blank">Taiobeiras-MG</a></li>
+    <li>🔗 <a href="https://www.facebook.com/groups/taiobeirasminasgeraisbrasil/" target="_blank">Taiobeiras-MG</a></li>
     <li>🔗 <a href="https://www.facebook.com/groups/uberlandiamgbrasil/" target="_blank">Uberlândia-MG</a></li>
     <li>🔗 <a href="https://www.facebook.com/groups/unaiminasgeraisbrasil/" target="_blank">Unaí-MG</a></li>
     <li>🔗 <a href="https://www.facebook.com/groups/varginhamgbrasil/" target="_blank">Varginha-MG</a></li>
@@ -84,10 +85,10 @@
 <section>
   <h2>Paraná (PR)</h2>
   <ul>
-    <li>🔗 <a href="https://www.facebook.com/groups/cambeparanabrasil" target="_blank">Cambé-PR</a></li>
+    <li>🔗 <a href="https://www.facebook.com/groups/cambeparanabrasil/" target="_blank">Cambé-PR</a></li>
     <li>🔗 <a href="https://www.facebook.com/groups/curitibaparanabrasil/" target="_blank">Curitiba-PR</a></li>
     <li>🔗 <a href="https://www.facebook.com/groups/londrinaparanabrasil/" target="_blank">Londrina-PR</a></li>
-    <li>🔗 <a href="https://www.facebook.com/groups/pontalparanabrasil" target="_blank">Pontal do Paraná-PR</a></li>
+    <li>🔗 <a href="https://www.facebook.com/groups/pontalparanabrasil/" target="_blank">Pontal do Paraná-PR</a></li>
   </ul>
 </section>
 
@@ -108,14 +109,14 @@
 <section>
   <h2>Rondônia (RO)</h2>
   <ul>
-    <li>🔗 <a href="https://www.facebook.com/groups/portovelhorobrasil" target="_blank">Porto Velho-RO</a></li>
+    <li>🔗 <a href="https://www.facebook.com/groups/portovelhorobrasil/" target="_blank">Porto Velho-RO</a></li>
   </ul>
 </section>
 
 <section>
   <h2>Santa Catarina (SC)</h2>
   <ul>
-    <li>🔗 <a href="https://www.facebook.com/groups/camboriuscbrasil" target="_blank">Camboriú-SC</a></li>
+    <li>🔗 <a href="https://www.facebook.com/groups/camboriuscbrasil/" target="_blank">Camboriú-SC</a></li>
     <li>🔗 <a href="https://www.facebook.com/groups/florianopolissantacatarina/" target="_blank">Florianópolis-SC</a></li>
   </ul>
 </section>
@@ -124,7 +125,7 @@
   <h2>São Paulo (SP)</h2>
   <ul>
     <li>🔗 <a href="https://www.facebook.com/groups/altairsp/" target="_blank">Altair-SP</a></li>
-    <li>🔗 <a href="https://www.facebook.com/groups/guarulhosaopaulobrasil" target="_blank">Guarulhos-SP</a></li>
+    <li>🔗 <a href="https://www.facebook.com/groups/guarulhosaopaulobrasil/" target="_blank">Guarulhos-SP</a></li>
     <li>🔗 <a href="https://www.facebook.com/groups/saopaulobrazil/" target="_blank">São Paulo-SP</a></li>
   </ul>
 </section>
