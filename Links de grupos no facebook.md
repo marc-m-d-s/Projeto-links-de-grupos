@@ -48,8 +48,10 @@
     <li>🔗 <a href="https://www.facebook.com/groups/brasiliademinasmg/" target="_blank">Brasília de Minas-MG</a></li>
     <li>🔗 <a href="https://www.facebook.com/groups/campodomeiominasgerais/" target="_blank">Campo do Meio-MG</a></li>
     <li>🔗 <a href="https://www.facebook.com/groups/congonhasminasgerais/" target="_blank">Congonhas-MG</a></li>
+    <li>🔗 <a href="https://www.facebook.com/groups/contagemminasgeraisbrasil/" target="_blank">Contagem-MG</a></li>
     <li>🔗 <a href="https://www.facebook.com/groups/icaraideminasmgbrasil/" target="_blank">Icaraí de Minas-MG</a></li>
     <li>🔗 <a href="https://www.facebook.com/groups/itacarambinortedeminas/" target="_blank">Itacarambi-MG</a></li>
+    <li>🔗 <a href="https://www.facebook.com/groups/ituiutabaminasgeraisbrasil" target="_blank">Ituiutaba-MG</a></li>
     <li>🔗 <a href="https://www.facebook.com/groups/januariaminasgerais/" target="_blank">Januária-MG</a></li>
     <li>🔗 <a href="https://www.facebook.com/groups/japonvarmg/" target="_blank">Japonvar-MG</a></li>
     <li>🔗 <a href="https://www.facebook.com/groups/lontramgbrasil/" target="_blank">Lontra-MG</a></li>
