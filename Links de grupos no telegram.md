@@ -48,8 +48,10 @@
     <li>🔗 <a href="https://t.me/+8X-ka5VM7oQ3ZWIx" target="_blank">Brasília de Minas-MG</a></li>
     <li>🔗 <a href="https://t.me/+u8m67moFh1QzNTZh" target="_blank">Campo do Meio-MG</a></li>
     <li>🔗 <a href="https://t.me/+89_CeOz1A1U2Zjlh" target="_blank">Congonhas-MG</a></li>
+    <li>🔗 <a href="https://t.me/+Fva-wfokX-8wOTEx" target="_blank">Contagem-MG</a></li>
     <li>🔗 <a href="https://t.me/+lx1OxZImSAFlMjQx" target="_blank">Icaraí de Minas-MG</a></li>
     <li>🔗 <a href="https://t.me/+cGK8ce_o9UpjNmQx" target="_blank">Itacarambi-MG</a></li>
+    <li>🔗 <a href="https://t.me/+y64N2KVe9OJiMDcx" target="_blank">Ituiutaba-MG</a></li>
     <li>🔗 <a href="https://t.me/+P5aCePv2h9tlMWNh" target="_blank">Januária-MG</a></li>
     <li>🔗 <a href="https://t.me/+aX1NORIuE7AxYWIx" target="_blank">Japonvar-MG</a></li>
     <li>🔗 <a href="https://t.me/+atzasJzjobw2ZmQ5" target="_blank">Lontra-MG</a></li>
