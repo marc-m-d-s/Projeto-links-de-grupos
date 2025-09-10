@@ -65,6 +65,7 @@
     <li>🔗 <a href="https://t.me/+MBYpLf1H24c5YTNh" target="_blank">Paracatu-MG</a></li>
     <li>🔗 <a href="https://t.me/+wyGK1JJUiVFmZmZh" target="_blank">Patos de Minas-MG</a></li>
     <li>🔗 <a href="https://t.me/+hBpYrNEGUs1lMTAx" target="_blank">Patrocínio-MG</a></li>
+    <li>🔗 <a href="https://t.me/+UpWJbRvTM81mZjkx" target="_blank">Pintópolis-MG</a></li>
     <li>🔗 <a href="https://t.me/+_wVpHbflRhgwN2E5" target="_blank">Pirapora-MG</a></li>
     <li>🔗 <a href="https://t.me/+3Vr8sLig0bNkOWFh" target="_blank">São Francisco-MG</a></li>
     <li>🔗 <a href="https://t.me/+x8xj08HDeXo3Yzgx" target="_blank">Taiobeiras-MG</a></li>
