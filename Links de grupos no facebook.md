@@ -65,6 +65,7 @@
     <li>🔗 <a href="https://www.facebook.com/groups/paracatubrasil/" target="_blank">Paracatu-MG</a></li>
     <li>🔗 <a href="https://www.facebook.com/groups/patosdeminasminasgerais/" target="_blank">Patos de Minas-MG</a></li>
     <li>🔗 <a href="https://www.facebook.com/groups/patrociniominasgeraisbrasil/" target="_blank">Patrocínio-MG</a></li>
+    <li>🔗 <a href="https://www.facebook.com/groups/pintopolisminasgeraisbrasil/" target="_blank">Pintópolis-MG</a></li>
     <li>🔗 <a href="https://www.facebook.com/groups/piraporaminasgerais/" target="_blank">Pirapora-MG</a></li>
     <li>🔗 <a href="https://www.facebook.com/groups/saofranciscominasgerais/" target="_blank">São Francisco-MG</a></li>
     <li>🔗 <a href="https://www.facebook.com/groups/taiobeirasminasgeraisbrasil/" target="_blank">Taiobeiras-MG</a></li>
