@@ -55,6 +55,7 @@
   <ul>
     <li>🔗 <a href="https://www.facebook.com/groups/alfenasminasgeraisbrasil/" target="_blank">Alfenas-MG</a></li>
     <li>🔗 <a href="https://www.facebook.com/groups/araguariminasgeraisbrasil/" target="_blank">Araguari-MG</a></li>
+    <li>🔗 <a href="https://www.facebook.com/groups/araxaminasgeraisbrasil/" target="_blank">Araxá-MG</a></li>
     <li>🔗 <a href="https://www.facebook.com/groups/belohorizonteminasgerais/" target="_blank">Belo Horizonte-MG</a></li>
     <li>🔗 <a href="https://www.facebook.com/groups/bocaiuvamgbrasil/" target="_blank">Bocaiuva-MG</a></li>
     <li>🔗 <a href="https://www.facebook.com/groups/brasiliademinasmg/" target="_blank">Brasília de Minas-MG</a></li>
