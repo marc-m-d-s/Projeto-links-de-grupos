@@ -30,6 +30,13 @@
 </section>
 
 <section>
+  <h2>Goiás (GO)</h2>
+  <ul>
+    <li>🔗 <a href="https://www.facebook.com/groups/goianiagoiasbrasil/" target="_blank">Goiânia-GO</a></li>
+  </ul>
+</section>
+
+<section>
   <h2>Mato Grosso (MT)</h2>
   <ul>
     <li>🔗 <a href="https://www.facebook.com/groups/cuiababrasil/" target="_blank">Cuiabá-MT</a></li>
