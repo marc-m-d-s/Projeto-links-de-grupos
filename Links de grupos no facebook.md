@@ -161,7 +161,7 @@
       </ul>
     </li>
     <li>
-      <strong>Mocambique (MOZ)</strong>
+      <strong>Moçambique (MOZ)</strong>
       <ul>
         <li>🔗 <a href="https://www.facebook.com/groups/maputomocambique/" target="_blank">Maputo-MOZ</a></li>
       </ul>
