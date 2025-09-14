@@ -66,6 +66,7 @@
     <li>🔗 <a href="https://t.me/+lx1OxZImSAFlMjQx" target="_blank">Icaraí de Minas-MG</a></li>
     <li>🔗 <a href="https://t.me/+cGK8ce_o9UpjNmQx" target="_blank">Itacarambi-MG</a></li>
     <li>🔗 <a href="https://t.me/+y64N2KVe9OJiMDcx" target="_blank">Ituiutaba-MG</a></li>
+    <li>🔗 <a href="https://t.me/+wXHMnoJqdLE1Yzgx" target="_blank">Janaúba-MG</a></li>
     <li>🔗 <a href="https://t.me/+P5aCePv2h9tlMWNh" target="_blank">Januária-MG</a></li>
     <li>🔗 <a href="https://t.me/+aX1NORIuE7AxYWIx" target="_blank">Japonvar-MG</a></li>
     <li>🔗 <a href="https://t.me/+atzasJzjobw2ZmQ5" target="_blank">Lontra-MG</a></li>
