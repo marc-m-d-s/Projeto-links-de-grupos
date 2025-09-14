@@ -66,6 +66,7 @@
     <li>🔗 <a href="https://www.facebook.com/groups/icaraideminasmgbrasil/" target="_blank">Icaraí de Minas-MG</a></li>
     <li>🔗 <a href="https://www.facebook.com/groups/itacarambinortedeminas/" target="_blank">Itacarambi-MG</a></li>
     <li>🔗 <a href="https://www.facebook.com/groups/ituiutabaminasgeraisbrasil/" target="_blank">Ituiutaba-MG</a></li>
+    <li>🔗 <a href="https://www.facebook.com/groups/janaubaminasgeraisbrasil/" target="_blank">Janaúba-MG</a></li>
     <li>🔗 <a href="https://www.facebook.com/groups/januariaminasgerais/" target="_blank">Januária-MG</a></li>
     <li>🔗 <a href="https://www.facebook.com/groups/japonvarmg/" target="_blank">Japonvar-MG</a></li>
     <li>🔗 <a href="https://www.facebook.com/groups/lontramgbrasil/" target="_blank">Lontra-MG</a></li>
@@ -157,6 +158,12 @@
       <strong>Florida (FL)</strong>
       <ul>
         <li>🔗 <a href="https://www.facebook.com/groups/miamifloridaeua/" target="_blank">Miami-FL</a></li>
+      </ul>
+    </li>
+    <li>
+      <strong>Mocambique (MOZ)</strong>
+      <ul>
+        <li>🔗 <a href="https://www.facebook.com/groups/maputomocambique/" target="_blank">Maputo-MOZ</a></li>
       </ul>
     </li>
   </ul>
