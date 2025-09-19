@@ -114,6 +114,7 @@
   <h2>Rio Grande do Sul (RS)</h2>
   <ul>
     <li>🔗 <a href="https://t.me/+K6-xiJJaO7E1YTNh" target="_blank">Porto Alegre-RS</a></li>
+    <li>🔗 <a href="https://t.me/+FS8Jv7uREcE4ZjFh" target="_blank">Gramado-RS</a></li>
   </ul>
 </section>
 
