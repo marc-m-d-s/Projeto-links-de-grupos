@@ -115,6 +115,7 @@
   <h2>Rio Grande do Sul (RS)</h2>
   <ul>
     <li>🔗 <a href="https://www.facebook.com/groups/portoalegreriograndedosulbrasil/" target="_blank">Porto Alegre-RS</a></li>
+    <li>🔗 <a href="https://www.facebook.com/groups/gramadoriograndedosulbrasil/" target="_blank">Gramado-RS</a></li>
   </ul>
 </section>
 
