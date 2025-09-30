@@ -8,6 +8,13 @@
 </p>
 
 <section>
+  <h2>Amazonas (AM)</h2>
+  <ul>
+    <li>🔗 <a href="https://t.me/+6h262fUz4_gzZDUx" target="_blank">Manaus-AM</a></li>
+  </ul>
+</section>
+
+<section>
   <h2>Bahia (BA)</h2>
   <ul>
     <li>🔗 <a href="https://t.me/+b8-nT1Be3YwyYmFh" target="_blank">Juazeiro-BA</a></li>
