@@ -95,6 +95,13 @@
 </section>
 
 <section>
+  <h2>Pará (PA)</h2>
+  <ul>
+    <li>🔗 <a href="https://www.facebook.com/groups/belemparabrasill/" target="_blank">Belém-PA</a></li>
+  </ul>
+</section>
+
+<section>
   <h2>Paraíba (PB)</h2>
   <ul>
     <li>🔗 <a href="https://www.facebook.com/groups/cajazeirasparaiba/" target="_blank">Cajazeiras-PB</a></li>
