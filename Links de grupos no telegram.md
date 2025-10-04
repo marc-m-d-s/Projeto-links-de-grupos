@@ -94,6 +94,13 @@
 </section>
 
 <section>
+  <h2>Pará (PA)</h2>
+  <ul>
+    <li>🔗 <a href="https://t.me/+d0kztBdpWyFiYjEx" target="_blank">Belém-PA</a></li>
+  </ul>
+</section>
+
+<section>
   <h2>Paraíba (PB)</h2>
   <ul>
     <li>🔗 <a href="https://t.me/+pEraX1e_2Mw1ZTgx" target="_blank">Cajazeiras-PB</a></li>
