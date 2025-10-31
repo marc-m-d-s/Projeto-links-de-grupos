@@ -185,8 +185,8 @@
     <li>
       <strong>Massachussets (MA)</strong>
       <ul>
-        🔗 <a href="https://www.facebook.com/groups/bostonmaeua/" target="_blank">Bonston-MA</a></li>
-        🔗 <a href="https://www.facebook.com/groups/rocklandmaeua/" target="_blank">Rockland-MA</a></li>
+        <li>🔗 <a href="https://www.facebook.com/groups/bostonmaeua/" target="_blank">Bonston-MA</a></li>
+        <li>🔗 <a href="https://www.facebook.com/groups/rocklandmaeua/" target="_blank">Rockland-MA</a></li>
       </ul>
     </li>
   </ul>
