@@ -173,7 +173,7 @@
 <hr>
 
 <section>
-  <h2>Exterior</h2>
+  <h2>EUA</h2>
   <ul>
     <li>
       <strong>Florida (FL)</strong>
@@ -181,11 +181,26 @@
         <li>🔗 <a href="https://t.me/+Q5YDLetl7NE3OGZh" target="_blank">Miami-FL</a></li>
       </ul>
     </li>
-    <!--<li>
-      <strong>Moçambique (MOZ)</strong>//
+    <li>
+      <strong>Massachussets (MA)</strong>
+      <ul>
+        <li>🔗 <a href="https://t.me/+kzk8y5KdqNxiOTg5" target="_blank">Boston-MA</a></li>
+        <li>🔗 <a href="https://t.me/+VFSV9Jxeq7M0Nzgx" target="_blank">Rockland-MA</a></li>
+      </ul>
+    </li>
+  </ul>
+
+<hr>
+
+<section>
+  <h2>Africa</h2>
+  <ul>
+    <li>
+      <strong>Moçambique (MOZ)</strong>
       <ul>
         <li>🔗 <a href="https://t.me/+Q5YDLetl7NE3OGZh" target="_blank">Maputo-MOZ</a></li>
       </ul>
-    </li>-->
+    </li>
+    <li>
   </ul>
 </section>
