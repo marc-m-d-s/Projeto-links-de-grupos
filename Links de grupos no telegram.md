@@ -198,7 +198,7 @@
     <li>
       <strong>Moçambique (MOZ)</strong>
       <ul>
-        <li>🔗 <a href="https://t.me/+Q5YDLetl7NE3OGZh" target="_blank">Maputo-MOZ</a></li>
+        <li>🔗 <a href="https://t.me/+6zSbiaRMQ9M2ZTZh" target="_blank">Maputo-MOZ</a></li>
       </ul>
     </li>
     <li>
