@@ -188,6 +188,7 @@
         <li>🔗 <a href="https://t.me/+kzk8y5KdqNxiOTg5" target="_blank">Boston-MA</a></li>
         <li>🔗 <a href="https://t.me/+yQnfWOk6ofUzNTUx" target="_blank">Brockton-MA</a></li>
         <li>🔗 <a href="https://t.me/+VFSV9Jxeq7M0Nzgx" target="_blank">Rockland-MA</a></li>
+        <li>🔗 <a href="https://t.me/+s0IfB3t64MkxZjdh" target="_blank">Weymouth-MA</a></li>
       </ul>
     </li>
   </ul>
