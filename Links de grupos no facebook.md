@@ -189,6 +189,7 @@
         <li>🔗 <a href="https://www.facebook.com/groups/bostonmaeua/" target="_blank">Boston-MA</a></li>
         <li>🔗 <a href="https://www.facebook.com/groups/brocktonmaeua/" target="_blank">Brockton-MA</a></li>
         <li>🔗 <a href="https://www.facebook.com/groups/rocklandmaeua/" target="_blank">Rockland-MA</a></li>
+        <li>🔗 <a href="https://www.facebook.com/groups/weymouthmaeua/" target="_blank">Weymouth-MA</a></li>
       </ul>
     </li>
   </ul>
