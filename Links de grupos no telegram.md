@@ -87,6 +87,7 @@
     <li>🔗 <a href="https://t.me/+3Vr8sLig0bNkOWFh" target="_blank">São Francisco-MG</a></li>
     <li>🔗 <a href="https://t.me/+f9Z3oWSh3zJjYzA5" target="_blank">Sete Lagoas-MG</a></li>
     <li>🔗 <a href="https://t.me/+x8xj08HDeXo3Yzgx" target="_blank">Taiobeiras-MG</a></li>
+    <li>🔗 <a href="https://t.me/+RdvzUlZpwBljOTQx" target="_blank">Teófilo Otoni-MG</a></li>
     <li>🔗 <a href="https://t.me/+ixlDpGWkKoY5MDRh" target="_blank">Uberlândia-MG</a></li>
     <li>🔗 <a href="https://t.me/+cBaOyem06qE0MDlh" target="_blank">Unaí-MG</a></li>
     <li>🔗 <a href="https://t.me/+o0AyXR0F0ag3MDZh" target="_blank">Varzelândia-MG</a></li>
