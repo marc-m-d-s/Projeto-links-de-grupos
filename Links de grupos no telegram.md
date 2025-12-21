@@ -119,6 +119,13 @@
 </section>
 
 <section>
+  <h2>Pernanbuco (PE)</h2>
+  <ul>
+    <li>🔗 <a href="https://t.me/+MdzYSsVnDggwNTVh" target="_blank">Toritama-PE</a></li>
+  </ul>
+</section>
+
+<section>
   <h2>Rio de Janeiro (RJ)</h2>
   <ul>
     <li>🔗 <a href="https://t.me/riodejaneirorjbrise" target="_blank">Rio de Janeiro-RJ</a></li>
