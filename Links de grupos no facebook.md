@@ -120,6 +120,13 @@
 </section>
 
 <section>
+  <h2>Pernanbuco (PE)</h2>
+  <ul>
+    <li>🔗 <a href="https://www.facebook.com/groups/toritamapebrasil/" target="_blank">Toritama-PE</a></li>
+  </ul>
+</section>
+
+<section>
   <h2>Rio de Janeiro (RJ)</h2>
   <ul>
     <li>🔗 <a href="https://www.facebook.com/groups/riodejaneirobrasil/" target="_blank">Rio de Janeiro-RJ</a></li>
