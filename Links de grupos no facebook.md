@@ -124,6 +124,8 @@
   <ul>
     <li>🔗 <a href="https://www.facebook.com/groups/toritamapebrasil/" target="_blank">Toritama-PE</a></li>
   </ul>
+    <li>🔗 <a href="https://www.facebook.com/groups/capibaribepebrasil/" target="_blank">Capibaribe-PE</a></li>
+  </ul>
 </section>
 
 <section>
