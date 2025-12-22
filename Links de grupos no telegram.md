@@ -123,6 +123,8 @@
   <ul>
     <li>🔗 <a href="https://t.me/+MdzYSsVnDggwNTVh" target="_blank">Toritama-PE</a></li>
   </ul>
+    <li>🔗 <a href="https://t.me/+gqRxhoR07DszYTNh" target="_blank">Capibaribe-PE</a></li>
+  </ul>
 </section>
 
 <section>
