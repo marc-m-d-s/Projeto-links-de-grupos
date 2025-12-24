@@ -126,6 +126,8 @@
   </ul>
     <li>🔗 <a href="https://www.facebook.com/groups/capibaribepebrasil/" target="_blank">Capibaribe-PE</a></li>
   </ul>
+    <li>🔗 <a href="https://www.facebook.com/groups/caruarupebrasil/" target="_blank">Caruaru-PE</a></li>
+  </ul>
 </section>
 
 <section>
