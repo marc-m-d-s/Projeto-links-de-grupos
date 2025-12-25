@@ -122,9 +122,7 @@
   <h2>Pernanbuco (PE)</h2>
   <ul>
     <li>🔗 <a href="https://t.me/+MdzYSsVnDggwNTVh" target="_blank">Toritama-PE</a></li>
-  </ul>
     <li>🔗 <a href="https://t.me/+gqRxhoR07DszYTNh" target="_blank">Capibaribe-PE</a></li>
-  </ul>
     <li>🔗 <a href="https://t.me/+w14PSVkDWBQwMDgx" target="_blank">Caruaru-PE</a></li>
   </ul>
 </section>
