@@ -123,9 +123,7 @@
   <h2>Pernanbuco (PE)</h2>
   <ul>
     <li>🔗 <a href="https://www.facebook.com/groups/toritamapebrasil/" target="_blank">Toritama-PE</a></li>
-  </ul>
     <li>🔗 <a href="https://www.facebook.com/groups/capibaribepebrasil/" target="_blank">Capibaribe-PE</a></li>
-  </ul>
     <li>🔗 <a href="https://www.facebook.com/groups/caruarupebrasil/" target="_blank">Caruaru-PE</a></li>
   </ul>
 </section>
