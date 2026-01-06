@@ -119,7 +119,7 @@
 </section>
 
 <section>
-  <h2>Pernanbuco (PE)</h2>
+  <h2>Pernambuco (PE)</h2>
   <ul>
     <li>🔗 <a href="https://t.me/+MdzYSsVnDggwNTVh" target="_blank">Toritama-PE</a></li>
     <li>🔗 <a href="https://t.me/+gqRxhoR07DszYTNh" target="_blank">Capibaribe-PE</a></li>
