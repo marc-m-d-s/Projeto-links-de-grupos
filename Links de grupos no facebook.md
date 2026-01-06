@@ -65,6 +65,7 @@
     <li>🔗 <a href="https://www.facebook.com/groups/araxaminasgeraisbrasil/" target="_blank">Araxá-MG</a></li>
     <li>🔗 <a href="https://www.facebook.com/groups/bhmgbrasil/" target="_blank">Belo Horizonte-MG</a></li>
     <li>🔗 <a href="https://www.facebook.com/groups/bocaiuvamgbrasil/" target="_blank">Bocaiuva-MG</a></li>
+    <li>🔗 <a href="https://www.facebook.com/groups/bonitodeminasmgbrasil/" target="_blank">Bonito de Minas-MG</a></li>
     <li>🔗 <a href="https://www.facebook.com/groups/brasiliademinasmg/" target="_blank">Brasília de Minas-MG</a></li>
     <li>🔗 <a href="https://www.facebook.com/groups/campodomeiominasgerais/" target="_blank">Campo do Meio-MG</a></li>
     <li>🔗 <a href="https://www.facebook.com/groups/congonhasminasgerais/" target="_blank">Congonhas-MG</a></li>
