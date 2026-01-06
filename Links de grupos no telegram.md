@@ -65,6 +65,7 @@
     <li>🔗 <a href="https://t.me/+22pgZkg8YkZkZGFh" target="_blank">Araxá-MG</a></li>
     <li>🔗 <a href="https://t.me/belohorizontemgbrise" target="_blank">Belo Horizonte-MG</a></li>
     <li>🔗 <a href="https://t.me/+ZoK_-4v3S4MzOTY5" target="_blank">Bocaiuva-MG</a></li>
+    <li>🔗 <a href="https://t.me/+JniIYosvwHpjNDA5" target="_blank">Bonito de Minas-MG</a></li>
     <li>🔗 <a href="https://t.me/+8X-ka5VM7oQ3ZWIx" target="_blank">Brasília de Minas-MG</a></li>
     <li>🔗 <a href="https://t.me/+u8m67moFh1QzNTZh" target="_blank">Campo do Meio-MG</a></li>
     <li>🔗 <a href="https://t.me/+89_CeOz1A1U2Zjlh" target="_blank">Congonhas-MG</a></li>
