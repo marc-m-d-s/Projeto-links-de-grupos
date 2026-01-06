@@ -63,7 +63,7 @@
     <li>🔗 <a href="https://www.facebook.com/groups/alfenasminasgeraisbrasil/" target="_blank">Alfenas-MG</a></li>
     <li>🔗 <a href="https://www.facebook.com/groups/araguariminasgeraisbrasil/" target="_blank">Araguari-MG</a></li>
     <li>🔗 <a href="https://www.facebook.com/groups/araxaminasgeraisbrasil/" target="_blank">Araxá-MG</a></li>
-    <li>🔗 <a href="https://www.facebook.com/groups/belohorizonteminasgerais/" target="_blank">Belo Horizonte-MG</a></li>
+    <li>🔗 <a href="https://www.facebook.com/groups/bhmgbrasil/" target="_blank">Belo Horizonte-MG</a></li>
     <li>🔗 <a href="https://www.facebook.com/groups/bocaiuvamgbrasil/" target="_blank">Bocaiuva-MG</a></li>
     <li>🔗 <a href="https://www.facebook.com/groups/brasiliademinasmg/" target="_blank">Brasília de Minas-MG</a></li>
     <li>🔗 <a href="https://www.facebook.com/groups/campodomeiominasgerais/" target="_blank">Campo do Meio-MG</a></li>
@@ -120,7 +120,7 @@
 </section>
 
 <section>
-  <h2>Pernanbuco (PE)</h2>
+  <h2>Pernambuco (PE)</h2>
   <ul>
     <li>🔗 <a href="https://www.facebook.com/groups/toritamapebrasil/" target="_blank">Toritama-PE</a></li>
     <li>🔗 <a href="https://www.facebook.com/groups/capibaribepebrasil/" target="_blank">Capibaribe-PE</a></li>
