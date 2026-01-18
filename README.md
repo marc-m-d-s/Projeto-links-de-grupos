@@ -17,7 +17,7 @@ Esses arquivos de links serão atualizadaos a medida que grupos são criados.
 
 # 🤝 Transferencia de grupos.
 
-Se você tem grupos inativos no Facebook, Telegram e Discord e deseje me transferir eles, entre em contato.
+Se você tem grupos inativos no Facebook, Telegram e deseje me transferir eles, entre em contato.
 
 💬 Facebook: https://www.facebook.com/marc.m.d.s.zero
 
