@@ -200,6 +200,7 @@
         <li>🔗 <a href="https://t.me/+yQnfWOk6ofUzNTUx" target="_blank">Brockton-MA</a></li>
         <li>🔗 <a href="https://t.me/+VFSV9Jxeq7M0Nzgx" target="_blank">Rockland-MA</a></li>
         <li>🔗 <a href="https://t.me/+s0IfB3t64MkxZjdh" target="_blank">Weymouth-MA</a></li>
+        <li>🔗 <a href="https://t.me/+FihOF0HrvE04N2Ux" target="_blank">Whitman-MA</a></li>
       </ul>
     </li>
   </ul>
