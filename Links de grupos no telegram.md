@@ -17,6 +17,7 @@
 <section>
   <h2>Bahia (BA)</h2>
   <ul>
+    <li>🔗 <a href="https://t.me/+giOiv8ChDjljMDdh" target="_blank">Guanambi-BA</a></li>
     <li>🔗 <a href="https://t.me/+b8-nT1Be3YwyYmFh" target="_blank">Juazeiro-BA</a></li>
     <li>🔗 <a href="https://t.me/+Fk3nAZ4VNZVmN2Ux" target="_blank">Porto Seguro-BA</a></li>
   </ul>
@@ -210,12 +211,9 @@
 <section>
   <h2>Africa</h2>
   <ul>
-    <li>
       <strong>Moçambique (MOZ)</strong>
       <ul>
         <li>🔗 <a href="https://t.me/+6zSbiaRMQ9M2ZTZh" target="_blank">Maputo-MOZ</a></li>
       </ul>
-    </li>
-    <li>
   </ul>
 </section>
