@@ -79,6 +79,7 @@
     <li>🔗 <a href="https://www.facebook.com/groups/januariaminasgerais/" target="_blank">Januária-MG</a></li>
     <li>🔗 <a href="https://www.facebook.com/groups/japonvarmg/" target="_blank">Japonvar-MG</a></li>
     <li>🔗 <a href="https://www.facebook.com/groups/lontramgbrasil/" target="_blank">Lontra-MG</a></li>
+    <li>🔗 <a href="https://www.facebook.com/groups/matiasmgbrazil/" target="_blank">Matias Cardoso-MG</a></li>
     <li>🔗 <a href="https://www.facebook.com/groups/montesclarosnortedeminas/" target="_blank">Montes Claros-MG</a></li>
     <li>🔗 <a href="https://www.facebook.com/groups/novaserranamg/" target="_blank">Nova Serrana-MG</a></li>
     <li>🔗 <a href="https://www.facebook.com/groups/paracatubrasil/" target="_blank">Paracatu-MG</a></li>
