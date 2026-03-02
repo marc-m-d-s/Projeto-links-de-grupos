@@ -81,6 +81,7 @@
     <li>🔗 <a href="https://www.facebook.com/groups/lontramgbrasil/" target="_blank">Lontra-MG</a></li>
     <li>🔗 <a href="https://www.facebook.com/groups/matiasmgbrazil/" target="_blank">Matias Cardoso-MG</a></li>
     <li>🔗 <a href="https://www.facebook.com/groups/montesclarosnortedeminas/" target="_blank">Montes Claros-MG</a></li>
+    <li>🔗 <a href="https://www.facebook.com/groups/montezumamgbrasil/" target="_blank">Montezuma-MG</a></li>
     <li>🔗 <a href="https://www.facebook.com/groups/novaserranamg/" target="_blank">Nova Serrana-MG</a></li>
     <li>🔗 <a href="https://www.facebook.com/groups/paracatubrasil/" target="_blank">Paracatu-MG</a></li>
     <li>🔗 <a href="https://www.facebook.com/groups/patosdeminasminasgerais/" target="_blank">Patos de Minas-MG</a></li>
