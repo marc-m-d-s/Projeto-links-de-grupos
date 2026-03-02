@@ -81,6 +81,7 @@
     <li>🔗 <a href="https://t.me/+atzasJzjobw2ZmQ5" target="_blank">Lontra-MG</a></li>
     <li>🔗 <a href="https://t.me/+oLSicVHZ9ZA5OTFh" target="_blank">Matias Cardoso-MG</a></li>
     <li>🔗 <a href="https://t.me/+DQ_8u_jWDsQ5ZDFh" target="_blank">Montes Claros-MG</a></li>
+    <li>🔗 <a href="https://t.me/+gExktOVZaIU4YmMx" target="_blank">Montezuma-MG</a></li>
     <li>🔗 <a href="https://t.me/+Gugu6AsPKJY3ZWJh" target="_blank">Nova Serrana-MG</a></li>
     <li>🔗 <a href="https://t.me/+MBYpLf1H24c5YTNh" target="_blank">Paracatu-MG</a></li>
     <li>🔗 <a href="https://t.me/+wyGK1JJUiVFmZmZh" target="_blank">Patos de Minas-MG</a></li>
