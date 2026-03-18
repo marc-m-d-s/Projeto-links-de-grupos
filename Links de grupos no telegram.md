@@ -94,6 +94,7 @@
     <li>🔗 <a href="https://t.me/+RdvzUlZpwBljOTQx" target="_blank">Teófilo Otoni-MG</a></li>
     <li>🔗 <a href="https://t.me/+ixlDpGWkKoY5MDRh" target="_blank">Uberlândia-MG</a></li>
     <li>🔗 <a href="https://t.me/+cBaOyem06qE0MDlh" target="_blank">Unaí-MG</a></li>
+    <li>🔗 <a href="https://t.me/+8juipN4eEVg2ZGFh" target="_blank">Varginha-MG</a></li>
     <li>🔗 <a href="https://t.me/+o0AyXR0F0ag3MDZh" target="_blank">Varzelândia-MG</a></li>
   </ul>
 </section>
