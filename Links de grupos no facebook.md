@@ -17,6 +17,7 @@
 <section>
   <h2>Bahia (BA)</h2>
   <ul>
+    <li>🔗 <a href="https://www.facebook.com/groups/itacarebahiabrazil" target="_blank">Itacaré-BA</a></li>
     <li>🔗 <a href="https://www.facebook.com/groups/guanambibabrasil/" target="_blank">Guanambi-BA</a></li>
     <li>🔗 <a href="https://www.facebook.com/groups/juazeirobahiabrasil/" target="_blank">Juazeiro-BA</a></li>
     <li>🔗 <a href="https://www.facebook.com/groups/portosegurobrasil/" target="_blank">Porto Seguro-BA</a></li>
